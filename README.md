@@ -1,10 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on PMO and IT DevOps Consultancy
 - 🌱 I’m currently learning GitHub Actions (started)
-- 👯 I’m looking to collaborate on on Jenkins too 😄
+- 👯 I’m looking to collaborate on Jenkins too 😄
 - 🤔 I’m looking for help with my new mission
 - 💬 Ask me anything about Japan
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: Linkedin or WhatsApp
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love Netflix and Sushis
 
