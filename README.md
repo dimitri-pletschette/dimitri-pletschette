@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Jenkins too 😄
 - 🤔 I’m looking for help with my new mission
 - 💬 Ask me anything about Japan
-- 📫 How to reach me: Linkedin or WhatsApp
+- 📫 How to reach me: Linkedin http://bit.ly/2pRuk4G or WhatsApp
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love Netflix and Sushis
 
