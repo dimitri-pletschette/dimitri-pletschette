@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on PMO and IT DevOps Consultancy
+- 🔭 I’m currently working on PMO missions and IT DevOps Consultancy
 - 🌱 I’m currently learning GitHub Actions (started)
 - 👯 I’m looking to collaborate on Jenkins too 😄
 - 🤔 I’m looking for help with my new mission
