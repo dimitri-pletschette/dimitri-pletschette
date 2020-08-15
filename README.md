@@ -1,4 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently working on PMO and IT DevOps Consultancy
+- 🌱 I’m currently learning GitHub Actions (started)
+- 👯 I’m looking to collaborate on on Jenkins too 😄
+- 🤔 I’m looking for help with my new mission
+- 💬 Ask me anything about Japan
+- 📫 How to reach me: Linkedin
+- 😄 Pronouns: He
+- ⚡ Fun fact: Love Netflix and Sushis
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <!--
 **dimitri-pletschette/dimitri-pletschette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
