@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 - 🔭 I’m currently working on Automation & Product Manahgement
 - 🌱 I’m currently learning ITIL v.4 (started)
 - 👯 I’m looking to collaborate on RPA
@@ -7,3 +7,6 @@
 - 📫 How to reach me: Linkedin http://bit.ly/2pRuk4G
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love Netflix and Sushis
+
+### Bio 📖
+- Dad, husband, and digital product manager, Dimitri is a technology enthusiast who spent the last ten years collaborating on IT projects for some of the world’s most exciting and forward-thinking brands in the life sciences industry. Outside work, Dimitri can be found with his family in Europe or Japan, in NPO projects, or at Tech conferences worldwide.
