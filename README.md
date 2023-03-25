@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently working on Automation & Product Manahgement
-- 🌱 I’m currently learning ITIL v.4 (started)
+- 🌱 I’m currently discovering Microsoft Loop
 - 👯 I’m looking to collaborate on RPA
 - 🤔 I’m looking for help with "Miro Dark Mode" https://bit.ly/3cLenFFc
 - 💬 Find me on Medium https://dimitripletschette.medium.com/
