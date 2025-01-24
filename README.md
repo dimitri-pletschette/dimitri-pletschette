@@ -9,4 +9,4 @@
 - ⚡ Fun fact: Love Netflix and Sushis
 
 ### Bio 📖
-- Dad, husband, and digital product manager.
+- 👾 Dad, husband, and digital product manager.
