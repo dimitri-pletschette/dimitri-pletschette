@@ -5,7 +5,7 @@
 - 🤔 I’m still looking for help with "Miro Dark Mode" https://bit.ly/3cLenFFc
 - 💬 Find me on Medium https://dimitripletschette.medium.com/
 - 📫 How to reach me: https://dimitripletschette.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love Netflix and Sushis
 
 ### Bio 📖
