@@ -7,7 +7,7 @@
 - 📫 How to reach me: https://dimitripletschette.com
 - 😄 Pronouns: He/Him
 - 💬 Fun fact: Love Netflix and Sushis
-- ⚡ My latest Vibecoded launch: Bitcoin Monitor https://bitcoin-monitor.lovable.app
+- ⚡ My latest launch: https://bitcoin-monitor.lovable.app
 
 ### Bio 📖
 - 👾 Dad, husband, and digital product manager.
