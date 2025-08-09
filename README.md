@@ -1,12 +1,11 @@
 ### Hi 👋
-- 🔭 I’m currently working on Data & Product Manahgement
+- 🔭 I’m currently working on Data Quality
 - 🌱 I’m currently advocating for Microsoft Loop
 - 👯 I’m looking to collaborate on Lovable
-- 🤔 I’m still looking for help with "Miro Dark Mode" https://bit.ly/3cLenFFc
-- 💬 Find me on Medium https://dimitripletschette.medium.com/
+- 🤔 I’m looking for help with Miro Dark Mode https://bit.ly/3cLenFFc
 - 📫 How to reach me: https://dimitripletschette.com
 - 😄 Pronouns: He/Him
-- 💬 Fun fact: Love Netflix and Sushis
+- 💬 Love Records, Arte, and Sushis.
 - ⚡ My latest launch: https://bitcoin-monitor.lovable.app
 
 ### Bio 📖
