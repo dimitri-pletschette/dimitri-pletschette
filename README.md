@@ -1,6 +1,6 @@
 ### Hi 👋
 - 😄 Pronouns: He/Him
-- 💬 Love Records, Arte, & Sushis.
+- 💬 Love Records, Arte TV, & Sushis.
 - 🔭 I’m currently working on Data Quality
 - 🌱 I’m currently advocating for Microsoft Loop
 - 👯 I’m looking to collaborate on Lovable
